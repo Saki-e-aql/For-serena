@@ -31,7 +31,7 @@ You can see the live demo of the game [here](https://valentines-proposal-visibai
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/visibait/valentines.git
+git clone https://github.com/adarsh/valentines.git
 cd valentines
 ```
 
